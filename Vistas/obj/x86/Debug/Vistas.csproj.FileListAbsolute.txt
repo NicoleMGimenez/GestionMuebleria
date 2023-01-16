@@ -1,0 +1,646 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\LPOOII_GRUPO03\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TPNOSIRVEN\LPOOII_GRUPO03\Vistas\obj\x86\Debug\RDTrigger.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\bin\Debug\Vistas.exe
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\bin\Debug\Vistas.pdb
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\bin\Debug\ClasesBase.dll
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\bin\Debug\ClasesBase.pdb
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Login.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MainWindow.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Menu.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuClientes.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProducto.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProveedores.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVendedores.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVentas.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDEstilos.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDPlantillas.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDTrigger.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\App.baml
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Login.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MainWindow.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Menu.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuClientes.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProducto.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVentas.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\App.g.cs
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.g.resources
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.exe
+\\VBOXSVR\tp2-lpoo\CARPETA LPOO II\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\bin\Debug\Vistas.exe
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\bin\Debug\Vistas.pdb
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Login.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\App.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TP-FUNCIONAL\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\TP-2-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\bin\Debug\Vistas.exe
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\bin\Debug\Vistas.pdb
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\App.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Login.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\lpoo2_22\PartidaTp5\TP-4-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Comprobante.baml
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\Vistas\obj\x86\Debug\Comprobante.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Comprobante.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Comprobante.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\bin\Debug\Vistas.exe
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\bin\Debug\Vistas.pdb
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Comprobante.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\RDEstilos.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\RDPlantillas.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\RDTrigger.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Comprobante.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Menu.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuClientes.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProducto.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuProveedores.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVendedores.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\MenuVentas.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\VistaPreviaDeImpresion.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\filtro.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\ListaDeEstados.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Login.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\UserControl8.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,65 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOOII_GRUPO03\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\ClasesBase\obj\Debug\ClasesBase.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\ClasesBase\obj\Debug\ClasesBase.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\USUARIO\Downloads\TP-FUNCIONAL-SIN4\TP-FUNCIONAL\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-2-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\TP-2-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-2-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-2-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-2-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-2-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-3-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tpFinal (1)\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\bienvenidos a hotel california\tpFinal\TP-3-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII kora\TP-5-LPOOII\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\TP-5-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\admin\Desktop\tp6\TP-5-LPOOII\ClasesBase\obj\Debug\ClasesBase.pdb
